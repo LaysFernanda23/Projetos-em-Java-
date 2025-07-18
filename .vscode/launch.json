@@ -1,0 +1,134 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "processo",
+            "request": "launch",
+            "mainClass": "Projetos.processo",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "ExcelWriter",
+            "request": "launch",
+            "mainClass": "ExcelWriter",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "atv07",
+            "request": "launch",
+            "mainClass": "Atividades.atv07",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "atv06",
+            "request": "launch",
+            "mainClass": "atv06",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "atv5",
+            "request": "launch",
+            "mainClass": "atv5",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "atv04",
+            "request": "launch",
+            "mainClass": "Atividades.atv04",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "ideia",
+            "request": "launch",
+            "mainClass": "Atividades.ideia",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Atividades.Calculadora",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "operar",
+            "request": "launch",
+            "mainClass": "operar",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "atv03",
+            "request": "launch",
+            "mainClass": "Atividades.atv03",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "atv02",
+            "request": "launch",
+            "mainClass": "Atividades.atv02",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "constantes",
+            "request": "launch",
+            "mainClass": "constantes",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "atv01",
+            "request": "launch",
+            "mainClass": "Atividades.atv01",
+            "projectName": "Student Java_688cbbdb"
+        },
+        {
+            "type": "java",
+            "name": "alterandovalor",
+            "request": "launch",
+            "mainClass": "alterandovalor",
+            "projectName": "FIAP_da5cd9b3"
+        },
+        {
+            "type": "java",
+            "name": "Aluno",
+            "request": "launch",
+            "mainClass": "Aluno",
+            "projectName": "FIAP_da5cd9b3"
+        },
+        {
+            "type": "java",
+            "name": "login",
+            "request": "launch",
+            "mainClass": "login",
+            "projectName": "FIAP_da5cd9b3"
+        },
+        {
+            "type": "java",
+            "name": "Acessosistema",
+            "request": "launch",
+            "mainClass": "Acessosistema",
+            "projectName": "FIAP_da5cd9b3"
+        },
+        {
+            "type": "java",
+            "name": "logico",
+            "request": "launch",
+            "mainClass": "logico",
+            "projectName": "FIAP_da5cd9b3"
+        }
+    ]
+}
